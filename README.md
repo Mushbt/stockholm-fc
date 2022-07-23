@@ -56,3 +56,10 @@ The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com
 ![Mobile wireframe image](Add image here) 
 
 [Back to top](<#contents>)
+
+## Site Structure
+
+Stockholm FC website has 5 visible pages. The [home page](index.html) is the Landing page, [about us](about-us.html), [gallery](gallery.html), [session times](session-times.html) and [bookings](bookings.html). All 5 visible pages are accessible from the navigation menu which is located on the top of all pages. There is a learn more button on the home page which takes you to the about us page. There is also a book now button on all the other visible pages. There is an extra [thank you](thank-you.html) page once you have filled out the form on the bookings page.
+
+
+[Back to top](<#contents>)
