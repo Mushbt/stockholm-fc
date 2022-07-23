@@ -226,7 +226,7 @@ footer {
     justify-content: space-evenly;
 }
 
-.container {
+.sessions-container {
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 4%;
@@ -423,5 +423,9 @@ input {
 .sessions-container-box {
         display: grid;
         grid-template-columns: auto;
+    }
+
+    .sessions-container {
+        margin-left: 150px;
     }
 }
