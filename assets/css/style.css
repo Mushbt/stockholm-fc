@@ -108,6 +108,12 @@ h2 {
     color: #e7e7e7;
 }
 
+.gallery-footer {
+position: relative;
+width: 100%;
+bottom: 0;
+}
+
 footer {
     position: absolute;
     width: 100%;
@@ -392,10 +398,6 @@ input {
 
     .learn-more-button {
         font-size: 0.6em;
-    }
-
-    footer {
-        position: relative;
     }
 
     .card {
