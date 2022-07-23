@@ -46,3 +46,13 @@ The Stockholm FC website has been designed to provide an easy-to-navigate site f
 
 
 [Back to top](<#contents>)
+
+## Wireframes
+
+The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device.
+
+![Desktop wireframe image](Add image here)
+
+![Mobile wireframe image](Add image here) 
+
+[Back to top](<#contents>)
