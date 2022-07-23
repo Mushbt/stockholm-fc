@@ -174,3 +174,35 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 * [Github](https://github.com/) - Used to host and edit the website.
 
 [Back to top](<#contents>)
+
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy the site are as followed:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image](add image here)
+
+  The live link to the Github repository can be found here - (enter link here)
+
+### **To fork the repository on GitHub**
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changed without affecting the original repository. The steps to fork the repository are as followed:
+1. Log in to **GitHub** and locate the [repository](https://github.com/EwanColquhoun/wawaswoods).
+2. On the right hand side of the page inline there should be a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+![GitHub forking process image](add image here)
+
+### **To create a local clone of this project**
+The steps to create a local clone of this project are as followed:
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+![Cloning image](add image here)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+[Back to top](<#contents>)
+
