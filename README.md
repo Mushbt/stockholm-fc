@@ -206,3 +206,21 @@ The steps to create a local clone of this project are as followed:
 
 [Back to top](<#contents>)
 
+# Credits
+### Content
+
+* The fonts came from [Google Fonts](https://fonts.google.com/).
+* The map is embedded from [Google Maps](https://www.google.com/maps).
+* The colours chosen were by me but I used [Colormind](http://colormind.io/) to see how the colours will look next to each other.
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The inspiration for the card styles came from [W3schools](https://w3schools.com/)
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
+* The README template came from [Ewan Colquhoun](https://www.linkedin.com/in/ewan-colquhoun-2b3535213/)
+
+
+### Media
+* The images used were taken from [Pexels](https://pexels.com/).
+* The images were converted to grayscale via [raw.pics.io](http://raw.pics.io).
+* The image sizes were edited via [Adobe](https://adobe.com/).
+
+[Back to top](<#contents>)
