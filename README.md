@@ -115,3 +115,12 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 ![About-Us image](insert image here)
 [Back to top](<#contents>)
+
+* ### Gallery
+
+     * The Gallery page gives the user an insight into the sessions that we hold.
+     * Images have been layed out into separate 'cards' to allow more focus per image rather than have them all contained into one section.
+     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+
+![Gallery image](insert image here)
+[Back to top](<#contents>)
