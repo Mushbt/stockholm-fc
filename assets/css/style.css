@@ -3,4 +3,20 @@
 body {
     font-family: 'Permanent Marker', cursive;
     font-family: 'Raleway', sans-serif;
+    color: #e7e7e7;
+}
+
+/* header and logo */
+
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    color: black;
+}
+
+#logo {
+    font-size: 2rem;
+    letter-spacing: 4px;
+    color: #e7e7e7;
+    text-decoration: none;
 }
