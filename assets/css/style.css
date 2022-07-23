@@ -6,7 +6,7 @@ body {
     color: #e7e7e7;
 }
 
-/* header and logo */
+/* headings and logo */
 
 h1, h2 {
     font-family: 'Raleway', sans-serif;
@@ -19,4 +19,38 @@ h1, h2 {
     letter-spacing: 4px;
     color: #e7e7e7;
     text-decoration: none;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: 'raleway', sans-serif;
+    margin: 0;
+}
+
+#menu,
+#logo {
+    line-height: 40px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    color: #FACF39;
+}
+
+.active {
+    border-bottom: 2px solid #FACF39;
 }
