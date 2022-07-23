@@ -79,3 +79,18 @@ Stockholm FC website has 5 visible pages. The [home page](index.html) is the Lan
 
 
 [Back to top](<#contents>)
+
+#Features
+
+The Stockholm FC site was made to be simple and easy to use. The thought behind this was that parents should not be overwhelmed with information and complicated navigation. For parents that do need further information, they have an easy form on the bookings page.
+
+## Existing Features  
+  * ### Navigation Menu
+
+    * Located at the top of all the pages in the site, it is responsive and contains links to all the pages of the site to allow ease of navigation in one location.
+    * The logo is clickable with a link back to the home page for enhanced UX.
+
+![Navigation bar image](insert nav image here)
+
+
+[Back to top](<#contents>)
