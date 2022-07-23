@@ -155,3 +155,15 @@ h2 {
     text-align: right;
     color: #e7e7e7;
 }
+
+/* about us */
+.about-us {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+    color: black;
+    font-weight: bolder;
+    font-size: medium;
+    letter-spacing: 2px;
+}
