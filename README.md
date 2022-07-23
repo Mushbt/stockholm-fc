@@ -133,3 +133,11 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 ![Session-Times image](insert image here)
 [Back to top](<#contents>)
+
+* ### Bookings
+
+     * The Bookings page contains an easy to fill form with a queries section if they require any further information.
+     * A contact card is also present with the phone number and email if the user prefers to contact us another way instead.
+     
+![Bookings image](insert image here)
+[Back to top](<#contents>)
