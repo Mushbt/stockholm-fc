@@ -310,7 +310,13 @@ footer {
     color: black;
 }
 
-/* form section bookins page */
+/* form section bookings page */
+.bookings-container-box {
+    display: flex;
+    background: #e7e7e7;
+    justify-content: space-evenly;
+}
+
 h1 {
     text-decoration-line: underline;
     color: black;
