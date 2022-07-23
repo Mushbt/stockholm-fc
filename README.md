@@ -165,3 +165,12 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 * A shop section where they can buy our football club merchandise such as football shirts or kits with or without their names printed on the back, footballs and water bottles.
 
 [Back to top](<#contents>)
+
+# Technologies Used
+* [HTML5](https://www.w3schools.com/html/) - Used for the content and structure of the site.
+* [CSS](https://www.w3schools.com/css/) - Used for styling the site.
+* [Balsamiq](https://balsamiq.com/wireframes/) - Used to create the wireframes.
+* [Gitpod](https://www.gitpod.io/#get-started) - Used to deploy the website.
+* [Github](https://github.com/) - Used to host and edit the website.
+
+[Back to top](<#contents>)
