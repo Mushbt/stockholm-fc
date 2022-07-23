@@ -102,3 +102,16 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
     
 ![Home image](insert image here)
 [back to top](<#contents>)
+
+* ### About Us
+
+     * The About us page gives the user more information about Stockholm FC.
+     * 3 sections were added and they are as followed:
+     * Who We Are - Who we are as a football club.
+     * What We Believe - What we believe is beneficial for children who are taking the exciting step into football.
+     * What We Focus On - Where our focus will be to get their children into the sport of football.
+     
+     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+
+![About-Us image](insert image here)
+[Back to top](<#contents>)
