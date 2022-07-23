@@ -219,7 +219,7 @@ footer {
 }
 
 /* session times */
-.container-box {
+.sessions-container-box {
     display: flex;
     background: #e7e7e7;
     padding: 2%;
@@ -366,7 +366,6 @@ input {
 
 /* CTA book now button */
 .button-wrapper {
-    margin-top: 5%;
     display: block;
     text-align: center;
 }
@@ -411,4 +410,18 @@ input {
         font-size: 16px;
     }
 
+    .session-column{
+        font-size: 17px;
+    }
+
+    #embed-map {
+        width: 660px;
+        height: 300px;
+        margin-left: 60px;
+}
+
+.sessions-container-box {
+        display: grid;
+        grid-template-columns: auto;
+    }
 }
