@@ -108,6 +108,12 @@ h2 {
     color: #e7e7e7;
 }
 
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
 .social-media {
     display: flex;
     justify-content: space-evenly;
