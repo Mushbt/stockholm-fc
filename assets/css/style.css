@@ -193,6 +193,14 @@ footer {
     font-size: 170%;
 }
 
+/* container box*/
+.container-box {
+    display: flex;
+    background: #e7e7e7;
+    padding: 2%;
+    justify-content: space-evenly;
+}
+
 /* CTA book now button */
 .button-wrapper {
     margin-top: 5%;
@@ -236,6 +244,19 @@ footer {
 }
 
 /* session times */
+.container-box {
+    display: flex;
+    background: #e7e7e7;
+    padding: 2%;
+    justify-content: space-evenly;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 4%;
+}
+
 .session-column {
     color: black;
 }
