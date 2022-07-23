@@ -193,39 +193,6 @@ footer {
     font-size: 170%;
 }
 
-/* container box*/
-.container-box {
-    display: flex;
-    background: #e7e7e7;
-    padding: 2%;
-    justify-content: space-evenly;
-}
-
-/* CTA book now button */
-.button-wrapper {
-    margin-top: 5%;
-    display: block;
-    text-align: center;
-}
-
-.book-now-button {
-    font-size: 1em;
-    border-radius: 10px;
-    padding: 0.5em 1em;
-    color: black;
-    font-weight: bolder;
-    text-decoration: none;
-    box-shadow: inset 0px -1px 8px rgb(0 0 0 / 20%);
-    background-color: #cdcdcd;
-}
-
-.book-now-button:hover {
-    border: 1px solid #e7e7e7;
-    background-color: black;
-    color: #e7e7e7;
-    font-weight: bolder;
-}
-
 /* gallery */
 #images {
     display: flex;
@@ -381,3 +348,35 @@ input {
     font-weight: bolder;
 }
 
+/* container box*/
+.container-box {
+    display: flex;
+    background: #e7e7e7;
+    padding: 2%;
+    justify-content: space-evenly;
+}
+
+/* CTA book now button */
+.button-wrapper {
+    margin-top: 5%;
+    display: block;
+    text-align: center;
+}
+
+.book-now-button {
+    font-size: 1em;
+    border-radius: 10px;
+    padding: 0.5em 1em;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    box-shadow: inset 0px -1px 8px rgb(0 0 0 / 20%);
+    background-color: #cdcdcd;
+}
+
+.book-now-button:hover {
+    border: 1px solid #e7e7e7;
+    background-color: black;
+    color: #e7e7e7;
+    font-weight: bolder;
+}
