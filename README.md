@@ -141,3 +141,12 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      
 ![Bookings image](insert image here)
 [Back to top](<#contents>)
+
+* ### Thank You
+
+     * The Thank You page is the only non visible page on the site. To get access to this, you must fill out the form on the Bookings page.
+     * The Thank You page has a simple thank you message and information on how long they will need to wait for a response from us. This will act as a confirmation page that their form or request has been received by us.
+     * The navigation menu is visible incase they would like to go back to any of the main pages on the site.
+    
+![Thank-You image](insert image here)
+[Back to top](<#contents>)
