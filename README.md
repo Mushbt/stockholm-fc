@@ -124,3 +124,12 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 ![Gallery image](insert image here)
 [Back to top](<#contents>)
+
+* ### Session Times
+
+     * The Session Times page gives the user information on location, what days and times we hold our sessions for the different age groups we cater to.
+     * A map of the location has also been added to make it simple for the user rather than having to search up the address on the internet.
+     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+
+![Session-Times image](insert image here)
+[Back to top](<#contents>)
