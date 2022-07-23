@@ -63,3 +63,38 @@ h1, h2 {
     background-attachment: fixed;
     background-size: cover;
 }
+
+/* footers */
+.home-page-footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home-page-footer>.social-media i {
+    font-size: 120%;
+    color: #e7e7e7;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-media>li {
+    display: inline;
+
+}
+
+.social-media i {
+    font-size: 120%;
+    width: 40px;
+    height: 40px;
+    color: black;
+}
+
+.social-media i:hover {
+    color: #FACF39;
+}
