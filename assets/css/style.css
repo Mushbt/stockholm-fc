@@ -114,6 +114,12 @@ width: 100%;
 bottom: 0;
 }
 
+.bookings-footer {
+    osition: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
 footer {
     position: absolute;
     width: 100%;
@@ -428,5 +434,15 @@ input {
     .sessions-container {
         margin-left: 110px;
         text-align: center;
+    }
+
+    .bookings-container-box {
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+
+    .contact-card {
+        width: fit-content;
     }
 }
