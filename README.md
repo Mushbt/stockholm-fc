@@ -63,3 +63,19 @@ Stockholm FC website has 5 visible pages. The [home page](index.html) is the Lan
 
 
 [Back to top](<#contents>)
+
+## Design Choices
+
+ * ### Typography
+      The fonts chosen were '---' for the headings and 'Raleway' for the body text. They fall back to '--' and sans-serif respectively. 
+     *  '--' I focused on the body text more as that is where the important information will be so I chose this font as I thought it compliments the body font.
+     * 'Raleway' is used for the body text as it is a simple and easy to read font.
+
+ * ### Colour Scheme
+      I decided to stick with simplicity when deciding the color scheme for the site. That is why I went with black and shades of grey as the main color scheme.
+      I added small details of bright yellow which really complemented the simple design.
+
+![Colour Palette image](Add image here)
+
+
+[Back to top](<#contents>)
