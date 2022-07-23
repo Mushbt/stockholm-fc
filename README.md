@@ -30,3 +30,19 @@ The Stockholm FC website has been designed to provide an easy-to-navigate site f
     * [**Content**](<#content>)
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
+
+# User Experience (UX)
+
+## User Stories
+
+* As a user I want to be able to know what the website is about as soon as I enter the site.
+* As a user I want to be able to navigate easily and smoothly through the site.
+* As a user I want information on who and what is Stockholm FC and why I should enroll my children to their football club.
+* As a user I want to see images of their football sessions.
+* As a user I want to know what day and time they have their sessions.
+* As a user I want to know the location of the sessions they hold.
+* As a user I want to be able to request more information via mail or phone.
+* As a user I want to be able to fill out a simple form to start my enrolment. 
+
+
+[Back to top](<#contents>)
