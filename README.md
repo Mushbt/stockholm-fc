@@ -158,3 +158,10 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      
 ![Footer image](insert image here)
 [Back to top](<#contents>)
+
+## Future Features 
+
+* An 'Our Coaches' section which will give the users photos and information about the coaches that will be working with their children. We can also add what their sporting background is and what sport diplomas they have.
+* A shop section where they can buy our football club merchandise such as football shirts or kits with or without their names printed on the back, footballs and water bottles.
+
+[Back to top](<#contents>)
