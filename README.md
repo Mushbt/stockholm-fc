@@ -94,3 +94,11 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 
 [Back to top](<#contents>)
+
+* ### Home
+    
+    * This is the landing page where potential visitors will come to once they have entered the site. I have used a background image of a young child shooting a  football. Reason behind this was that I did not feel I would need to add any further information on what the site was about as the image was self explanatory along side keeping everything simple.
+    * A persuasive header along with a learn more button was placed next to the image which gives the visitors a close enough button to move on to the next page which is the about us page.
+    
+![Home image](insert image here)
+[back to top](<#contents>)
