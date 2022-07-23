@@ -207,3 +207,20 @@ h2 {
     color: #e7e7e7;
     font-weight: bolder;
 }
+
+/* gallery */
+#images {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+    padding: 0 2%;
+}
+
+.gallery-card {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    width: 20%;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: #cdcdcd;
+}
