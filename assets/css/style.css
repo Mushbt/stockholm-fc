@@ -224,3 +224,22 @@ h2 {
     border-radius: 10px;
     background-color: #cdcdcd;
 }
+
+/* session times */
+.session-column {
+    color: black;
+}
+
+.session-column>h3 {
+    font-size: 125%;
+    color: black;
+    font-weight: bolder;
+    width: max-content;
+}
+
+.session-column>ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: 600;
+    font-size: 90%;
+}
