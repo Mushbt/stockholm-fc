@@ -3,6 +3,8 @@
 body {
     font-family: 'Permanent Marker', cursive;
     font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    background-color: #e7e7e7;
     color: #e7e7e7;
     margin: 0;
 }
