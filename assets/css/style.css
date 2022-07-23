@@ -442,7 +442,24 @@ input {
         
     }
 
+    #booking-form{
+        width: 325px;
+        margin: 0 auto;
+    }
+
+    #submit-button {
+       margin: 0 auto;
+    }
+
     .contact-card {
         width: fit-content;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+
+    .bookings-footer {
+        position: relative;
+        float: none;
+        margin-bottom: 10px;
     }
 }
