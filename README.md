@@ -150,3 +150,11 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
     
 ![Thank-You image](insert image here)
 [Back to top](<#contents>)
+
+* ### Footer
+
+     * The Footer contains the social media links for Stockholm FC. They open up in new tabs for better UX enhancement.
+     * The social media links will provide the users with a further insight into our weekly sessions and will also be a point of reference for users who have already  enrolled their children to see what they have been upto in our sessions.
+     
+![Footer image](insert image here)
+[Back to top](<#contents>)
