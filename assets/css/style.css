@@ -54,3 +54,12 @@ h1, h2 {
 .active {
     border-bottom: 2px solid #FACF39;
 }
+
+/* home page background */
+.background-image {
+    background-image: url(../images/background-image.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
