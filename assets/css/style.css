@@ -525,4 +525,8 @@ input {
     .card>h3 {
         font-size: 13px;
     }
+
+    .sessions-container-box {
+        margin-left: -55px;
+    }
 }
