@@ -469,5 +469,12 @@ input {
     }
 }
 
+@media screen and (max-width: 1560px) {
+    #embed-map {
+        width: 500px;
+    }
+    
+}
+
     
     
