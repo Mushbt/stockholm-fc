@@ -381,6 +381,11 @@ input {
     text-align: center;
 }
 
+.sessions-button-wrapper {
+    display: block;
+    text-align: center;
+}
+
 .book-now-button {
     font-size: 1em;
     border-radius: 10px;
@@ -452,6 +457,8 @@ input {
         margin-left: 110px;
         text-align: center;
     }
+
+    
 
     .bookings-container-box {
         display: flex;
