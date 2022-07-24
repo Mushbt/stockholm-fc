@@ -538,6 +538,27 @@ input {
 /* For small screens sizes from 750px wide and down */
 
 @media screen and (max-width: 750px){
+    .background-image {
+    background-image: url(/assets/images/background-image-750.jpg);
+    }
+
+    .quote{
+        display: none;
+    }
     
+    .learn-more-button {
+        display: none;
+    }
+
+    .home-page-footer {
+        display: block;
+       position: absolute;
+       width: 100%;
+       bottom: 0;
+    }
+
+    .home-page-footer>.social-media i {
+        color: black;
+    }
 }
     
