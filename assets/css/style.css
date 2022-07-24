@@ -534,3 +534,10 @@ input {
         font-size: large;
     }
 }
+
+/* For small screens sizes from 750px wide and down */
+
+@media screen and (max-width: 750px){
+    
+}
+    
