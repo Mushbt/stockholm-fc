@@ -518,4 +518,11 @@ input {
         font-size: 20px;
     }
 
+    .card {
+        height: 400px;
+    }
+
+    .card>h3 {
+        font-size: 13px;
+    }
 }
