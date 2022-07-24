@@ -456,7 +456,7 @@ input {
     }
 
     .card {
-        height: 300px;
+        height: 270px;
         font-size: 13px;
         width: 25%;
         margin-top: -50px;
@@ -566,13 +566,17 @@ input {
     }
 }
 
+@media screen and (max-width: 768px) {
+
+    .background-image {
+        background-image: url(../images/background-image-mq.jpg);
+        }
+}
+
 /* For small screens sizes from 750px wide and down */
 
 @media screen and (max-width: 750px){
     
-    .background-image {
-    background-image: url(/assets/images/background-image-750.jpg);
-    }
 
     .quote{
         display: none;
