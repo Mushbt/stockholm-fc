@@ -560,5 +560,9 @@ input {
     .home-page-footer>.social-media i {
         color: black;
     }
+
+    .card i {
+        display: none;
+    }
 }
     
