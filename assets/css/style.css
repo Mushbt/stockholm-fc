@@ -454,11 +454,15 @@ input {
     }
 
     .sessions-container {
+        margin-top: -10px;
+        padding-bottom: 10px;
         margin-left: 110px;
         text-align: center;
     }
 
-    
+    .sessions-button-wrapper {
+        margin-top: -7px;
+    }
 
     .bookings-container-box {
         display: flex;
