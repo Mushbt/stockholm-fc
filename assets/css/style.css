@@ -425,7 +425,13 @@ input {
         font-size: 16px;
     }
 
+    .gallery-button-wrapper {
+        margin-top: -15px;
+    }
 
+    .gallery-footer {
+        margin-top: 40px;
+    }
 
     .session-column{
         font-size: 17px;
