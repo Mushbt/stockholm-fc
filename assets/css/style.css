@@ -529,4 +529,8 @@ input {
     .sessions-container-box {
         margin-left: -55px;
     }
+
+    .thank-you-content {
+        font-size: large;
+    }
 }
