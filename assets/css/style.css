@@ -644,5 +644,17 @@ input {
         margin-bottom: 2%;
     }
     }
+
+    /* For smaller screens sizes from 510px wide and down */
+
+@media screen and (max-width: 510px) {
+    #menu {
+        font-size: 10px;
+    }
+
+    #embed-map {
+        width: 400px;
+    }
+}
     
     
