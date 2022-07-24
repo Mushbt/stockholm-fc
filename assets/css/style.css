@@ -569,7 +569,7 @@ input {
     }
 
     .home-page-footer {
-        display: block;
+       display: block;
        position: absolute;
        width: 100%;
        bottom: 0;
@@ -591,11 +591,19 @@ input {
         margin-top: -2px;
     } 
 
+    .social-media {
+        margin-top: 40px;
+    }
+
     .sessions-container{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    #embed-map {
+        width: 500px;
     }
 
     footer {
