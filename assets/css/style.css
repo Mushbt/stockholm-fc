@@ -649,7 +649,8 @@ input {
 
 @media screen and (max-width: 510px) {
     #menu {
-        font-size: 10px;
+        display: flex;
+        flex-direction: column-reverse;
     }
 
     #embed-map {
