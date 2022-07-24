@@ -442,9 +442,10 @@ input {
     font-weight: bolder;
 }
 
-/* For large to medium screens sizes from 1200px wide and down */
 
-@media screen and (max-width: 1200px) {
+/* For large to medium screens sizes from 1500px wide and down */
+
+@media screen and (max-width: 1500px) {
     .learn-button-wrapper {
         margin-left: 70%;
         padding: 3%;
@@ -455,9 +456,10 @@ input {
     }
 
     .card {
-        height: 394.06;
-        font-size: 14px;
+        height: 300px;
+        font-size: 13px;
         width: 25%;
+        margin-top: -50px;
     }
 
     .button-wrapper {
@@ -502,11 +504,16 @@ input {
         margin-top: -7px;
     }
 
+    footer {
+        position: relative;
+    }
+
     .bookings-container-box {
         display: flex;
         flex-direction: column-reverse;
         
     }
+
 
     #booking-form{
         width: 325px;
