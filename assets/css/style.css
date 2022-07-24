@@ -370,6 +370,13 @@ input {
     justify-content: space-evenly;
 }
 
+.thank-you-content {
+ margin: 0 auto;
+ text-align: center;  
+ color: black;
+ font-weight: bolder; 
+}
+
 /* CTA book now button */
 .button-wrapper {
     display: block;
