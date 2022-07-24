@@ -115,7 +115,13 @@ bottom: 0;
 }
 
 .bookings-footer {
-    osition: absolute;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.thank-you-footer {
+    position: absolute;
     width: 100%;
     bottom: 0;
 }
@@ -564,5 +570,20 @@ input {
     .card i {
         display: none;
     }
+
+    .sessions-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+    }
+
+
 }
     
