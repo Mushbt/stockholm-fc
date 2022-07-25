@@ -796,7 +796,7 @@ input {
 /* For smaller screens from 400px wide and down */
 @media screen and (max-width: 400px) {
     .card {
-        width: 200px;
+        width: 210px;
     }
 
     .session-column {
