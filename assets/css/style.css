@@ -719,11 +719,12 @@ input {
     #menu {
         display: flex;
         flex-direction: column-reverse;
-        font-size: 10px;
+        font-size: 14px;
+        text-align: center;
     }
 
     .card {
-       width: 400px;
+       width: 350px;
     }
 
     .about-us-button-wrapper {
@@ -736,11 +737,6 @@ input {
         margin-top: 8px;
     }
 
-    .sessions-button-wrapper {
-        font-size: 14px;
-        margin-top: 8px;
-    }
-
     #embed-map {
         width: 300px;
         margin-left: 12px;
@@ -748,6 +744,7 @@ input {
 
     .sessions-button-wrapper {
         font-size: 12px;
+        margin-top: 8px;
     }
 
     .thank-you-content {
