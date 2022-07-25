@@ -687,6 +687,29 @@ input {
     }
 }
 
+@media screen and (max-width: 625px){
+    #menu {
+        font-size: 12px;
+    }
+    .social-media {
+        margin-top: 80px;
+    }
+
+    .about-us {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 40%;
+        height: fit-content;
+        padding: 2%;
+        margin-bottom: 2%;
+    }
+    }
+
 
     
 
