@@ -224,3 +224,13 @@ The steps to create a local clone of this project are as followed:
 * The image sizes were edited via [Adobe](https://adobe.com/).
 
 [Back to top](<#contents>)
+
+# Acknowledgements
+The site was done as part of a project piece for my Full Stack Software Development Diploma at the [Code Institute](https://codeinstitute.net/).
+I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for all his advice and help throughout. I would like to also thank the Slack community and the tutors at The Code Institute for their help whenever it was needed.
+
+The name for my site was inspired by me living in Stockholm and there was no copyright infringement intended towards the actual Stockholm FC who play in the first division in Sweden.
+
+Mustafa Habet 2022.
+
+[Back to top](<#contents>)
