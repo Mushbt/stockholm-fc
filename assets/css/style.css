@@ -473,7 +473,12 @@ input {
     #embed-map {
         width: 500px;
     }
-    
+}
+
+@media screen and (max-width: 1440px) {
+    #embed-map {
+        width: 450px
+    }
 }
 
     
