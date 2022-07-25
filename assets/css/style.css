@@ -737,6 +737,16 @@ input {
     }
 }
 
+@media screen and (max-width: 400px) {
+    .card {
+        width: 300px;
+    }
+
+    #embedmap {
+        width: 300px;
+    }
+}
+
 
 
     
