@@ -719,6 +719,14 @@ input {
     }
 }
 
+/* For smaller screens from 675px wide and down */
+@media screen and (max-width: 675px) {
+    .learn-button-wrapper {
+        font-size: 18px;
+    }
+}
+
+
 /* For smaller screens from 625px wide and down */
 @media screen and (max-width: 625px) {
     #menu {
@@ -727,6 +735,10 @@ input {
 
     .social-media {
         margin-top: 80px;
+    }
+
+    .learn-button-wrapper {
+        font-size: 15px;
     }
 
     .about-us {
@@ -741,7 +753,7 @@ input {
     }
 
     .card {
-        width: 40%;
+        width: 400px;
         height: fit-content;
         padding: 2%;
         margin-bottom: 2%;
@@ -813,10 +825,10 @@ input {
     }
 }
 
-/* For smaller screens from 412px wide and down */
-@media screen and (max-width: 412px) {
+/* For smaller screens from 443px wide and down */
+@media screen and (max-width: 443px) {
     .learn-button-wrapper {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .card {
@@ -832,8 +844,12 @@ input {
     }
 }
 
-/* For smaller screens from 320px wide and down */
-@media screen and (max-width: 320px) {
+/* For smaller screens from 345px wide and down */
+@media screen and (max-width: 345px) {
+    .learn-button-wrapper {
+        font-size: 8px;
+    }
+
     #booking-form {
         width: 300px;
     }
