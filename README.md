@@ -228,29 +228,29 @@ No visible errors occured.
 
  <br>
 * As a user I want to be able to navigate easily and smoothly through the site.
-    * A navigation menu is located on the top of every page which has been carefully put in a specific order to give the users a navigational route through the site.
-    * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they had seen enough and are interested in enrolling their children.
+  * A navigation menu is located on the top of every page which has been carefully put in a specific order to give the users a navigational route through the site.
+  * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they had seen enough and are interested in enrolling their children.
  
  <br>
 * As a user I want information on who and what is Stockholm FC and why I should enroll my child in their football club.
-    * On the About Us page there is information which has been set into 3 different sections and they are as followed: Who We Are, What We Believe, and What We Focus On. All the sections are aimed at trying to give the parents an insight into who and what we are and what they are to expect. Also, we hope to give them peace of mind in regards to their children being in a fun and safe environment.
+  * On the About Us page there is information which has been set into 3 different sections and they are as followed: Who We Are, What We Believe, and What We Focus On. All the sections are aimed at trying to give the parents an insight into who and what we are and what they are to expect. Also, we hope to give them peace of mind in regards to their children being in a fun and safe environment.
     
  <br>
 * As a user I want to see images of their football sessions.
-    * On the Gallery page there are images of some of the football sessions we hold.
+  * On the Gallery page there are images of some of the football sessions we hold.
  
  <br>
 * As a user I want to know what day and time they have their sessions.
-    * On the Sessions page the user will see a schedule with what day and times our sessions are held depending on the age group their child belongs to.
-    * There is also a map with the location of the football pitch where we hold our sessions.
+  * On the Sessions page the user will see a schedule with what day and times our sessions are held depending on the age group their child belongs to.
+  * There is also a map with the location of the football pitch where we hold our sessions.
 
  <br>
 * As a user I want to be able to request more information via mail or phone.
-    * On the bookings page the user will find a contact card with our email address and phone number for further contact.
+  * On the bookings page the user will find a contact card with our email address and phone number for further contact.
  
  <br>
 * As a user I want to be able to fill out a simple form to start my enrolment.
-    * On the bookings page the user will find a quick and easy form with an enquiry box in case they want to know more information.
+  * On the bookings page the user will find a quick and easy form with an enquiry box in case they want to know more information.
  
 # Deployment
 
