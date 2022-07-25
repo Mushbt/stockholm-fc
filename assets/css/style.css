@@ -711,9 +711,15 @@ input {
 }
 
 @media screen and (max-width: 510px) {
+    header {
+    height: 300px;
+    font-size: 12px;
+    }
+
     #menu {
         display: flex;
         flex-direction: column-reverse;
+        font-size: 10px;
     }
 
     .card {
@@ -722,27 +728,35 @@ input {
 
     .about-us-button-wrapper {
         font-size: 14px;
+        margin-top: 8px;
     }
 
     .gallery-button-wrapper {
-        font-size: 12px;
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+    .sessions-button-wrapper {
+        font-size: 14px;
+        margin-top: 8px;
     }
 
     #embed-map {
-        width: 400px;
+        width: 300px;
+        margin-left: 12px;
     }
 
     .sessions-button-wrapper {
         font-size: 12px;
     }
+
+    .thank-you-content {
+        margin-top: 60px;
+    }
 }
 
 @media screen and (max-width: 400px) {
     .card {
-        width: 300px;
-    }
-
-    #embedmap {
         width: 300px;
     }
 }
