@@ -744,6 +744,10 @@ input {
 
 /* For smaller screens from 510px wide and down */
 @media screen and (max-width: 510px) {
+    .background-image{
+        background-image: url(../images/background-image-ss.jpg);
+    }
+
     header {
         height: 300px;
         font-size: 14px;
