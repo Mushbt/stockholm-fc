@@ -71,6 +71,14 @@ h3 {
 }
 
 /* Header */
+.home-page-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding-left: 2rem;
+}
+
 header {
     display: flex;
     justify-content: space-around;
@@ -584,6 +592,10 @@ input {
 
 /* For large to medium screens from 1024px wide and down */
 @media screen and (max-width: 1024px) {
+    .home-page-header {
+        font-size: 12px;
+        flex-direction: column;
+    }
 
     header {
         font-size: 12px;
@@ -766,8 +778,10 @@ input {
 
 /* For smaller screens from 540px wide and down */
 @media screen and (max-width: 540px) {
-    .background-image{
-        background-image: url(../images/background-image-ss.jpg);
+    .home-page-header {
+        height: 300px;
+        font-size: 14px;
+        opacity: 0.7;
     }
 
     header {
