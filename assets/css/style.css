@@ -498,6 +498,25 @@ input {
 }
 
 @media screen and (max-width: 1366px) {
+
+    .learn-button-wrapper {
+        margin-left: 70%;
+        padding: 3%;
+        text-align: center;
+    }
+
+    .learn-more-button {
+        font-size: 0.6em;
+    }
+
+    .card {
+        height: 400px;
+    }
+
+    .card>h3 {
+        font-size: 20px;
+    }
+
     .about-us-button-wrapper {
         margin-top: 14px;
     }
@@ -513,7 +532,29 @@ input {
     .bookings-footer {
         position: relative;
     }
+
+    .session-column {
+        font-size: 17px;
+    }
+
+    #embed-map {
+        width: 450px;
+    }
+
+    .contact-card {
+        width: fit-content;
+    }
 }
+
+@media screen and (max-width: 1133px) {
+    .card>h3 {
+        font-size: 19px;
+    }
+    }
+    
+}
+
+
 
     
     
