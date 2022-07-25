@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rokkitt:wght@300&display=swap');
 
 * {
     padding: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rokkitt', serif;
     font-family: 'Raleway', sans-serif;
     font-size: 1.5em;
     background-color: #e7e7e7;
@@ -22,8 +22,9 @@ body {
 /* headings and logo */
 
 h1,
-h2 {
-    font-family: 'Raleway', sans-serif;
+h2,
+h3 {
+    font-family: 'Rokkitt', serif;
     letter-spacing: 2px;
     color: black;
 }
@@ -41,7 +42,7 @@ h2 {
     font-size: 18px;
     letter-spacing: 2px;
     font-weight: bolder;
-    font-family: 'raleway', sans-serif;
+    font-family: 'Rokkitt', serif;
     margin: 0;
 }
 
@@ -80,7 +81,7 @@ header {
 
 h1,
 h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Rokkitt', serif;
     letter-spacing: 2px;
     color: black;
 }
@@ -478,6 +479,7 @@ input {
         width: 500px;
     }
 }
+
 /* For large to medium screens from 1487px wide and down */
 @media screen and (max-width: 1487px) {
     .card>h3 {
