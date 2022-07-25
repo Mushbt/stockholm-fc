@@ -800,10 +800,9 @@ input {
     }
 }
 
+/* For smaller screens from 320px wide and down */
 @media screen and (max-width: 320px) {
-
     #booking-form {
         width: 300px;
     }
-    
 }
