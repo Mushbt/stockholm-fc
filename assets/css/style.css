@@ -611,8 +611,8 @@ input {
     }
 }
 
-/* For small screens from 768px wide and down */
-@media screen and (max-width: 768px) {
+/* For small screens from 800px wide and down */
+@media screen and (max-width: 800px) {
     .background-image {
         background-image: url(../images/background-image-mq.jpg);
     }
