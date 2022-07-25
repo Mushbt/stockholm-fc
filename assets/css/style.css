@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Raleway:wght@100&display=swap');
 
-*{
+* {
     padding: 0;
     scroll-behavior: smooth;
 }
 
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -20,7 +21,8 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
     color: black;
@@ -120,9 +122,9 @@ h2 {
 }
 
 .gallery-footer {
-position: relative;
-width: 100%;
-bottom: 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
 }
 
 .bookings-footer {
@@ -209,7 +211,7 @@ footer {
     letter-spacing: 2px;
 }
 
-.about-us-container-box{
+.about-us-container-box {
     display: flex;
     background: #e7e7e7;
     padding: 2%;
@@ -290,7 +292,7 @@ footer {
 }
 
 .contact-card {
-     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
     width: 20%;
     padding: 2%;
     border-radius: 10px;
@@ -396,12 +398,12 @@ input {
 
 /* Thank You */
 .thank-you-content {
- text-align: center;
- position: absolute;
- top: 30%;
- width: 100%;  
- color: black;
- font-weight: bolder; 
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    color: black;
+    font-weight: bolder;
 }
 
 .thank-you-content>h1 {
@@ -447,7 +449,8 @@ input {
     font-weight: bolder;
 }
 
-@media screen and (max-width: 1600px){
+/* For large to medium screens from 1600px wide and down */
+@media screen and (max-width: 1600px) {
     .about-us-button-wrapper {
         margin-top: 80px;
     }
@@ -469,13 +472,14 @@ input {
     }
 }
 
+/* For large to medium screens from 1560px wide and down */
 @media screen and (max-width: 1560px) {
     #embed-map {
         width: 500px;
     }
 }
-
-@media  screen and (max-width: 1487px) {
+/* For large to medium screens from 1487px wide and down */
+@media screen and (max-width: 1487px) {
     .card>h3 {
         font-size: 24px;
     }
@@ -485,18 +489,21 @@ input {
     }
 }
 
+/* For large to medium screens from 1440px wide and down */
 @media screen and (max-width: 1440px) {
     #embed-map {
         width: 450px
     }
 }
 
+/* For large to medium screens from 1385px wide and down */
 @media screen and (max-width: 1385px) {
     #embed-map {
         width: 400px;
     }
 }
 
+/* For large to medium screens from 1366px wide and down */
 @media screen and (max-width: 1366px) {
 
     .learn-button-wrapper {
@@ -546,6 +553,7 @@ input {
     }
 }
 
+/* For large to medium screens from 1133px wide and down */
 @media screen and (max-width: 1133px) {
 
     .card {
@@ -570,8 +578,9 @@ input {
     }
 }
 
+/* For large to medium screens from 1024px wide and down */
 @media screen and (max-width: 1024px) {
-    
+
     header {
         font-size: 12px;
         flex-direction: column;
@@ -594,6 +603,7 @@ input {
     }
 }
 
+/* For small screens from 768px wide and down */
 @media screen and (max-width: 768px) {
     .background-image {
         background-image: url(../images/background-image-mq.jpg);
@@ -608,13 +618,13 @@ input {
         position: absolute;
         width: 100%;
         bottom: 0;
-     }
- 
-     .home-page-footer>.social-media i {
-         color: black;
-     }
+    }
 
-     .about-us {
+    .home-page-footer>.social-media i {
+        color: black;
+    }
+
+    .about-us {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -647,7 +657,7 @@ input {
         flex-direction: column;
     }
 
-    .sessions-container-box{
+    .sessions-container-box {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -667,17 +677,17 @@ input {
     .bookings-container-box {
         display: flex;
         flex-direction: column-reverse;
-        
+
     }
 
 
-    #booking-form{
+    #booking-form {
         width: 325px;
         margin: 0 auto;
     }
 
     #submit-button {
-       margin: 0 auto;
+        margin: 0 auto;
     }
 
     .contact-card {
@@ -687,10 +697,12 @@ input {
     }
 }
 
-@media screen and (max-width: 625px){
+/* For smaller screens from 625px wide and down */
+@media screen and (max-width: 625px) {
     #menu {
         font-size: 12px;
     }
+
     .social-media {
         margin-top: 80px;
     }
@@ -710,21 +722,22 @@ input {
     }
 }
 
+/* For smaller screens from 510px wide and down */
 @media screen and (max-width: 510px) {
     header {
-    height: 300px;
-    font-size: 12px;
+        height: 300px;
+        font-size: 12px;
     }
 
     #menu {
         display: flex;
         flex-direction: column-reverse;
-        font-size: 14px;
+        font-size: 10px;
         text-align: center;
     }
 
     .card {
-       width: 350px;
+        width: 400px;
     }
 
     .about-us-button-wrapper {
@@ -737,6 +750,11 @@ input {
         margin-top: 8px;
     }
 
+    .sessions-button-wrapper {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
     #embed-map {
         width: 300px;
         margin-left: 12px;
@@ -744,7 +762,6 @@ input {
 
     .sessions-button-wrapper {
         font-size: 12px;
-        margin-top: 8px;
     }
 
     .thank-you-content {
@@ -752,17 +769,9 @@ input {
     }
 }
 
+/* For smaller screens from 400px wide and down */
 @media screen and (max-width: 400px) {
     .card {
         width: 300px;
     }
 }
-
-
-
-    
-
-
-
-    
-    
