@@ -475,6 +475,16 @@ input {
     }
 }
 
+@media  screen and (max-width: 1487px) {
+    .card>h3 {
+        font-size: 27px;
+    }
+
+    .card>p {
+        font-size: 18px;
+    }
+}
+
 @media screen and (max-width: 1440px) {
     #embed-map {
         width: 450px
