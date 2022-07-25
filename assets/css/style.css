@@ -39,7 +39,7 @@ h3 {
 /* navigation links */
 
 #menu {
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 2px;
     font-weight: bolder;
     font-family: 'Rokkitt', serif;
@@ -471,6 +471,8 @@ input {
     #submit-button {
         margin-top: -15px;
     }
+
+
 }
 
 /* For large to medium screens from 1560px wide and down */
@@ -598,6 +600,10 @@ input {
 
     .card>h3 {
         font-size: 15px;
+    }
+
+    footer {
+        position: relative;
     }
 
     .thank-you-content {
@@ -728,13 +734,13 @@ input {
 @media screen and (max-width: 510px) {
     header {
         height: 300px;
-        font-size: 12px;
+        font-size: 14px;
     }
 
     #menu {
         display: flex;
         flex-direction: column-reverse;
-        font-size: 10px;
+        font-size: 14px;
         text-align: center;
     }
 
