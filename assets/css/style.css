@@ -708,7 +708,35 @@ input {
         padding: 2%;
         margin-bottom: 2%;
     }
+}
+
+@media screen and (max-width: 510px) {
+    #menu {
+        display: flex;
+        flex-direction: column-reverse;
     }
+
+    .card {
+       width: 400px;
+    }
+
+    .about-us-button-wrapper {
+        font-size: 14px;
+    }
+
+    .gallery-button-wrapper {
+        font-size: 12px;
+    }
+
+    #embed-map {
+        width: 400px;
+    }
+
+    .sessions-button-wrapper {
+        font-size: 12px;
+    }
+}
+
 
 
     
