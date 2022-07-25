@@ -497,5 +497,23 @@ input {
     }
 }
 
+@media screen and (max-width: 1366px) {
+    .about-us-button-wrapper {
+        margin-top: 14px;
+    }
+
+    .gallery-button-wrapper {
+        margin-top: -18px;
+    }
+
+    .sessions-button-wrapper {
+        margin-top: 14px;
+    }
+
+    .bookings-footer {
+        position: relative;
+    }
+}
+
     
     
