@@ -477,7 +477,7 @@ input {
 
 @media  screen and (max-width: 1487px) {
     .card>h3 {
-        font-size: 27px;
+        font-size: 24px;
     }
 
     .card>p {
@@ -488,6 +488,12 @@ input {
 @media screen and (max-width: 1440px) {
     #embed-map {
         width: 450px
+    }
+}
+
+@media screen and (max-width: 1385px) {
+    #embed-map {
+        width: 400px;
     }
 }
 
