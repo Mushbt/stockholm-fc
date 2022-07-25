@@ -726,11 +726,19 @@ input {
         justify-content: space-around;
     }
 
+    .about-us-button-wrapper {
+        margin-top: 6px;
+    }
+
     .card {
         width: 40%;
         height: fit-content;
         padding: 2%;
         margin-bottom: 2%;
+    }
+
+    .gallery-button-wrapper {
+        margin-top: 6px;
     }
 }
 
