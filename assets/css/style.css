@@ -794,4 +794,8 @@ input {
     .card {
         width: 200px;
     }
+
+    .session-column {
+        font-size: 15px;
+    }
 }
