@@ -799,3 +799,11 @@ input {
         font-size: 15px;
     }
 }
+
+@media screen and (max-width: 320px) {
+
+    #booking-form {
+        width: 300px;
+    }
+    
+}
