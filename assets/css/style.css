@@ -547,12 +547,55 @@ input {
 }
 
 @media screen and (max-width: 1133px) {
+
+    .card {
+        height: 295px;
+    }
+
     .card>h3 {
-        font-size: 19px;
+        font-size: 17px;
     }
+
+    .card>p {
+        font-size: 14px;
     }
-    
+
+    .about-us-button-wrapper {
+        margin-top: 60px;
+    }
+
+    #embed-map {
+        width: 400px;
+        margin-left: 30px;
+    }
 }
+
+@media screen and (max-width: 1024px) {
+    
+    header {
+        font-size: 12px;
+        flex-direction: column;
+    }
+
+    .learn-button-wrapper {
+        font-size: 20px;
+    }
+
+    .card {
+        height: 325px;
+    }
+
+    .card>h3 {
+        font-size: 15px;
+    }
+
+    .thank-you-content {
+        font-size: large;
+    }
+}
+
+
+    
 
 
 
