@@ -2,8 +2,7 @@
 
 The Stockholm FC website has been designed to provide an easy-to-navigate site for parents and guardians who are interested in enrolling their children, who are between the ages of 5 and 12, into a football club for children.
 
-![Stockholm FC Website shown on a range of devices](../assets/images/responsive.png)
-
+![Stockholm FC Website shown on a range of devices](https://github.com/mushbt/stockholm-fc/workspace/main/assets/images/responsive.png)
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
