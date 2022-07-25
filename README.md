@@ -175,12 +175,89 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 [Back to top](<#contents>)
 
+# Testing
+## Code Validation
+The Stockholm FC site has been tested in depth. All the code has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).  
+
+The HTML validator results for each page are below:
+
+* Home page
+
+![W3C Validator test result](insert image here)
+
+* About Us page
+
+![W3C Validator test result](insert image here)
+
+* Gallery page
+
+![W3C Validator test result](insert image here)
+
+* Sessions page
+
+![W3C Validator test result](insert image here)
+
+* Bookings page
+
+![W3C Validator test result](insert image here)
+
+* Thank You page
+
+![W3C Validator test result](insert image here)
+
+The CSS validator results are below:
+
+![CSS Validator test result](insert image here)
+
+## Responsiveness Test
+
+* The responsive design tests were done using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/) which allows you to test the site on numerous devices which range from desktop screens to mobile phones.
+* Site link was sent to friends and family and also posted on the slack portal. A few errors in regards to content not fitting within the screen width came up but those have been rectified.
+
+## Browser Compatibility
+
+The Stockholm FC site was tested on the following browsers:
+Google Chrome, Microsoft Edge, Safari, Mozilla Firefox, Samsung Internetoccurredawoccurredser.
+No visible errors occured.
+
+## Testing User Stories
+
+* As a user I want to be able to know what the website is about as soon as I enter the site.
+  * Background image has been set for high width and low width screens. Background images of a child shooting a football and children playing football were used respectively.
+  * A header with the content "Teach your kids the beautiful game" alongside a CTA Learn more button which takes the user to the About Us page has been positioned by the background images to give the user more information on what the site is about.
+
+ <br>
+* As a user I want to be able to navigate easily and smoothly through the site.
+    * A navigation menu is located on the top of every page which has been carefully put in a specific order to give the users a navigational route through the site.
+    * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they had seen enough and are interested in enrolling their children.
+ 
+ <br>
+* As a user I want information on who and what is Stockholm FC and why I should enroll my child in their football club.
+    * On the About Us page there is information which has been set into 3 different sections and they are as followed: Who We Are, What We Believe, and What We Focus On. All the sections are aimed at trying to give the parents an insight into who and what we are and what they are to expect. Also, we hope to give them peace of mind in regards to their children being in a fun and safe environment.
+    
+ <br>
+* As a user I want to see images of their football sessions.
+    * On the Gallery page there are images of some of the football sessions we hold.
+ 
+ <br>
+* As a user I want to know what day and time they have their sessions.
+    * On the Sessions page the user will see a schedule with what day and times our sessions are held depending on the age group their child belongs to.
+    * There is also a map with the location of the football pitch where we hold our sessions.
+
+ <br>
+* As a user I want to be able to request more information via mail or phone.
+    * On the bookings page the user will find a contact card with our email address and phone number for further contact.
+ 
+ <br>
+* As a user I want to be able to fill out a simple form to start my enrolment.
+    * On the bookings page the user will find a quick and easy form with an enquiry box in case they want to know more information.
+ 
 # Deployment
 
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy the site are as followed:
   1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  2. Once in Settings, navigate to the **Pages** tab on the left-hand side.
   3. Under **Source**, select the branch to **main**, then click **save**.
   4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
