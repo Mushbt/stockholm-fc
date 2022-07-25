@@ -615,14 +615,16 @@ input {
     }
 }
 
-/* For small screens from 800px wide and down */
-@media screen and (max-width: 800px) {
+/* For small screens from 912px wide and down */
+@media screen and (max-width: 912px) {
     .background-image {
         background-image: url(../images/background-image-mq.jpg);
     }
 
     .learn-button-wrapper {
-        display: none;
+        background-color: black;
+        border-radius: 10px;
+        opacity: 0.7;
     }
 
     .home-page-footer {
@@ -644,10 +646,18 @@ input {
     }
 
     .card {
-        width: 40%;
-        height: fit-content;
+        width: 500px;
         padding: 2%;
         margin-bottom: 2%;
+        text-align: center center;
+    }
+
+    .card>h3 {
+        font-size: larger;
+    }
+
+    .card>p {
+        font-size: large;
     }
 
     .about-us-button-wrapper {
@@ -742,8 +752,8 @@ input {
     }
 }
 
-/* For smaller screens from 510px wide and down */
-@media screen and (max-width: 510px) {
+/* For smaller screens from 540px wide and down */
+@media screen and (max-width: 540px) {
     .background-image{
         background-image: url(../images/background-image-ss.jpg);
     }
@@ -760,8 +770,18 @@ input {
         text-align: center;
     }
 
+    .learn-button-wrapper {
+        margin-top: 150px;
+        font-size: small;
+    }
+
     .card {
-        width: 300px;
+        width: 310px;
+        margin: 2%;
+    }
+
+    .gallery-card {
+        margin: 2%;
     }
 
     .about-us-button-wrapper {
@@ -793,14 +813,22 @@ input {
     }
 }
 
-/* For smaller screens from 400px wide and down */
-@media screen and (max-width: 400px) {
+/* For smaller screens from 412px wide and down */
+@media screen and (max-width: 412px) {
+    .learn-button-wrapper {
+        font-size: 12px;
+    }
+
     .card {
-        width: 210px;
+        width: 270px;
     }
 
     .session-column {
         font-size: 15px;
+    }
+
+    .thank-you-content {
+        margin-top: 100px;
     }
 }
 
@@ -809,4 +837,34 @@ input {
     #booking-form {
         width: 300px;
     }
+}
+
+/* For smaller screens from 280px wide and down */
+@media screen and (max-width: 280px) {
+    .learn-button-wrapper {
+        font-size: 8px;
+    }
+
+    .card {
+        width: 260px;
+    }
+
+    .session-column {
+        width: 180px;
+        font-size: 10px;
+    }
+
+    #embed-map {
+        width: 260px;
+    }
+
+    #booking-form {
+        width: 200px;
+    }
+
+    .contact-card {
+        font-size: 12px;
+        width: 180px;
+    }
+    
 }
