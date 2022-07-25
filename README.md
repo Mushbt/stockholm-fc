@@ -226,7 +226,7 @@ No visible errors occured.
   * Background image has been set for high width and low width screens. Background images of a child shooting a football and children playing football were used respectively.
   * A header with the content "Teach your kids the beautiful game" alongside a CTA Learn more button which takes the user to the About Us page has been positioned by the background images to give the user more information on what the site is about.
 
- <br>
+    <br>
 * As a user I want to be able to navigate easily and smoothly through the site.
     * A navigation menu is located on the top of every page which has been carefully put in a specific order to give the users a navigational route through the site.
     * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they had seen enough and are interested in enrolling their children.
