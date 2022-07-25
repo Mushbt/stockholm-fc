@@ -606,6 +606,10 @@ input {
         position: relative;
     }
 
+    #embed-map {
+        width: 300px;
+    }
+
     .thank-you-content {
         font-size: large;
     }
@@ -745,7 +749,7 @@ input {
     }
 
     .card {
-        width: 400px;
+        width: 300px;
     }
 
     .about-us-button-wrapper {
@@ -780,6 +784,6 @@ input {
 /* For smaller screens from 400px wide and down */
 @media screen and (max-width: 400px) {
     .card {
-        width: 300px;
+        width: 200px;
     }
 }
