@@ -76,7 +76,7 @@ Stockholm FC website has 5 visible pages. The [home page](index.html) is the Lan
       I decided to stick with simplicity when deciding the color scheme for the site. That is why I went with black and shades of grey as the main color scheme.
       I added small details of bright yellow which really complemented the simple design.
 
-![Colour Palette image](Add image here)
+![Colour Palette image](assets/images-md/color-palette.png)
 
 
 [Back to top](<#contents>)
