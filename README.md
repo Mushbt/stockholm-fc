@@ -50,7 +50,7 @@ The Stockholm FC website has been designed to provide an easy-to-navigate site f
 
 ## Wireframes
 
-The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device.
+The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device. The final site varies a little due to some changes being made during development.
 
 ![Desktop wireframe image](assets/images-md/desktop-wf.png)
 
@@ -68,8 +68,8 @@ Stockholm FC website has 5 visible pages. The [home page](index.html) is the Lan
 ## Design Choices
 
  * ### Typography
-      The fonts chosen were '---' for the headings and 'Raleway' for the body text. They fall back to '--' and sans-serif respectively. 
-     *  '--' I focused on the body text more as that is where the important information will be so I chose this font as I thought it compliments the body font.
+      The fonts chosen were 'Rokkitt' for the headings and 'Raleway' for the body text. They fall back to sans and sans-serif respectively. 
+     * 'Rokkitt' was chosen as the header font because it compliments the body font. I focused on the body font because I felt the important information would be in the body.
      * 'Raleway' is used for the body text as it is a simple and easy to read font.
 
  * ### Colour Scheme
