@@ -272,7 +272,36 @@ The site was tested using [Google Lighthouse](https://developers.google.com/web/
 * Accessibility - Is the site acccessible for all users and how can it be improved.
 * Best Practices - Site conforms to industry best practices.
 * SEO - Search Engine Optimisation. Is the site optimised for search engine result rankings.
-         
+
+* The results for the tests are below:
+* Home - 
+
+![Lighthouse test results](assets/images-md/lighthouse-home.png)
+
+* SEO was not rated as high as everything else and the reason for that was because the CTA Learn more button was not so descriptive. However, there is a descriptive header above the button which is not taken into consideration during the tests. Image for the SEO test is below.
+
+![Lighthouse test reults](assets/images-md/lighthouse-home-seo.png)
+
+* About Us -
+
+![Lighthouse test results](assets/images-md/lighthouse-about-us.png)
+
+* Gallery -
+
+![Lighthouse test results](assets/images-md/lighthouse-gallery.png)
+
+* Session Times -
+
+![Lighthouse test results](assets/images-md/lighthouse-sessions.png)
+
+* Bookings -
+
+![Lighthouse test results](assets/images-md/lighthouse-bookings.png)
+
+* Thank You -
+
+![Lighthouse test results](assets/images-md/lighthouse-thank-you.png)
+       
 # Deployment
 
 ### **To deploy the project**
