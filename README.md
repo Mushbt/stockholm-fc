@@ -184,31 +184,31 @@ The HTML validator results for each page are below:
 
 * Home page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 * About Us page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 * Gallery page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 * Sessions page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 * Bookings page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 * Thank You page
 
-![W3C Validator test result](insert image here)
+![W3C Validator test result](assets/images-md/html-validator.png)
 
 The CSS validator results are below:
 
-![CSS Validator test result](insert image here)
+![CSS Validator test result](assets/images-md/css-validator.png)
 
 ## Responsiveness Test
 
