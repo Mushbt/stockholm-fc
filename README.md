@@ -60,7 +60,7 @@ The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com
 
 ## Site Structure
 
-The Stockholm FC website has 5 visible pages. The [home page](index.html) which is the Landing page, [about us](about-us.html), [gallery](gallery.html), [session times](session-times.html) and [bookings](bookings.html). All 5 visible pages are accessible from the navigation menu which is located on the top of all pages. There is a learn more button on the home page which takes you to the about us page. There is also a book now button on all the other visible pages. There is an extra [thank you](thank-you.html) page once you have filled out the form on the bookings page.
+The Stockholm FC website has 5 visible pages. The [home page](index.html) which is the Landing page, [about us](about-us.html), [gallery](gallery.html), [session times](session-times.html) and [bookings](bookings.html). All 5 visible pages are accessible from the navigation menu which is located on the top of all pages. There is a learn more button on the home page which takes you to the about us page. There is also a book now button on all the other visible pages with exception to the bookings page. There is an extra [thank you](thank-you.html) page once you have filled out the form on the bookings page.
 
 
 [Back to top](<#contents>)
@@ -98,8 +98,8 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 
 * ### Home
     
-    * This is the landing page where potential visitors will come to once they have entered the site. I have used a background image of a young child shooting a  football. Reason behind this was that I did not feel I would need to add any further information on what the site was about as the image was self explanatory along side keeping everything simple.
-    * A persuasive header along with a learn more button was placed next to the image which gives the visitors a close enough button to move on to the next page which is the about us page.
+    * This is the landing page, where potential visitors will come to once they have entered the site. I have used a background image of a young child shooting a football. The reason behind this was that I did not feel I would need to add any further information on what the site was about as the image was self-explanatory alongside keeping everything simple.
+    * A persuasive header, along with a learn more button was placed next to the image which gives the visitors a close enough button to move on to the next page which is the about us page.
     
 ![Home image](assets/images-md/home-page.png)
 [back to top](<#contents>)
@@ -107,12 +107,12 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 * ### About Us
 
      * The About us page gives the user more information about Stockholm FC.
-     * 3 sections were added and they are as followed:
+     * Three sections were added and they are as followed:
      * Who We Are - Who we are as a football club.
      * What We Believe - What we believe is beneficial for children who are taking the exciting step into football.
      * What We Focus On - Where our focus will be to get their children into the sport of football.
      
-     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+     * A book now button was added which takes the user to the bookings page in case they are persuaded enough to choose this football club for their children.
 
 ![About-Us image](assets/images-md/about-us.png)
 [Back to top](<#contents>)
@@ -120,17 +120,17 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 * ### Gallery
 
      * The Gallery page gives the user an insight into the sessions that we hold.
-     * Images have been layed out into separate 'cards' to allow more focus per image rather than have them all contained into one section.
-     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+     * Images have been laid out into separate 'cards' to allow more focus per image rather than have them all contained in one page section.
+     * A book now button was added which takes the user to the bookings page in case they are persuaded enough to choose this football club for their children.
 
 ![Gallery image](assets/images-md/gallery.png)
 [Back to top](<#contents>)
 
 * ### Session Times
 
-     * The Session Times page gives the user information on location, what days and times we hold our sessions for the different age groups we cater to.
+     * The Session Times page gives the user information on location, and what days and times we hold our sessions for the different age groups we cater to.
      * A map of the location has also been added to make it simple for the user rather than having to search up the address on the internet.
-     * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
+     * A book now button was added which takes the user to the bookings page in case they are persuaded enough to choose this football club for their children.
 
 ![Session-Times image](assets/images-md/sessions.png)
 [Back to top](<#contents>)
@@ -155,7 +155,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
 * ### Footer
 
      * The Footer contains the social media links for Stockholm FC. They open up in new tabs for better UX enhancement.
-     * The social media links will provide the users with a further insight into our weekly sessions and will also be a point of reference for users who have already  enrolled their children to see what they have been upto in our sessions.
+     * The social media links will provide the users with a further insight into our weekly sessions and will also be a point of reference for users who have already enrolled their children to see what they have been upto in our sessions.
      
 ![Footer image](assets/images-md/footer.png)
 [Back to top](<#contents>)
@@ -213,7 +213,7 @@ The CSS validator results are below:
 ## Responsiveness Test
 
 * The responsive design tests were done using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/) which allows you to test the site on numerous devices which range from desktop screens to mobile phones.
-* Site link was sent to friends and family and also posted on the slack portal. A few errors in regards to content not fitting within the screen width came up but those have been rectified.
+* Site link was sent to friends and family and also posted on the Slack portal. A few errors in regards to content not fitting within the screen width came up but those have been rectified.
 
 ## Browser Compatibility
 
@@ -223,34 +223,34 @@ No visible errors occured.
 
 ## Testing User Stories
 
-* As a user I want to be able to know what the website is about as soon as I enter the site.
-  * Background image has been set for high width and low width screens. Background images of a child shooting a football and children playing football were used respectively.
-  * A header with the content "Teach your kids the beautiful game" alongside a CTA Learn more button which takes the user to the About Us page has been positioned by the background images to give the user more information on what the site is about.
+* As a user, I want to be able to know what the website is about as soon as I enter the site.
+  * A background image has been set for high width and low width screens. Background images of a child shooting a football and children playing football were used respectively.
+  * A header with the content "Teach your kids the beautiful game" alongside a CTA Learn more button which takes the user to the About Us page has been positioned by the background image to give the user more information on what the site is about.
 
     <br>
-* As a user I want to be able to navigate easily and smoothly through the site.
+* As a user, I want to be able to navigate easily and smoothly through the site.
     * A navigation menu is located on the top of every page which has been carefully put in a specific order to give the users a navigational route through the site.
-    * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they had seen enough and are interested in enrolling their children.
+    * A CTA book now button has been placed on the following pages: About us, Gallery, and Sessions page. This was done to allow the user the option of skipping the navigation menu if they have seen enough and are interested in enrolling their children.
 
     <br>
-* As a user I want information on who and what is Stockholm FC and why I should enroll my child in their football club.
-    * On the About Us page there is information which has been set into 3 different sections and they are as followed: Who We Are, What We Believe, and What We Focus On. All the sections are aimed at trying to give the parents an insight into who and what we are and what they are to expect. Also, we hope to give them peace of mind in regards to their children being in a fun and safe environment.
+* As a user, I want information on who and what is Stockholm FC and why I should enroll my child in their football club.
+    * On the About Us page there is information which has been set into 3 different sections and they are Who We Are, What We Believe, and What We Focus On. All the sections are aimed at trying to give the parents an insight into who and what we are and what they are to expect. Also, we hope to give them peace of mind in regards to their children being in a fun and safe environment.
 
     <br>
-* As a user I want to see images of their football sessions.
+* As a user, I want to see images of their football sessions.
     * On the Gallery page there are images of some of the football sessions we hold.
 
     <br>
-* As a user I want to know what day and time they have their sessions.
+* As a user, I want to know what day and time they have their sessions.
     * On the Sessions page the user will see a schedule with what day and times our sessions are held depending on the age group their child belongs to.
     * There is also a map with the location of the football pitch where we hold our sessions.
 
     <br>
-* As a user I want to be able to request more information via mail or phone.
+* As a user, I want to be able to request more information via mail or phone.
     * On the bookings page the user will find a contact card with our email address and phone number for further contact.
 
     <br>
-* As a user I want to be able to fill out a simple form to start my enrolment.
+* As a user, I want to be able to fill out a simple form to start my enrolment.
     * On the bookings page the user will find a quick and easy form with an enquiry box in case they want to know more information.
 
 ## Known Bugs
@@ -316,12 +316,12 @@ The site was deployed to GitHub pages. The steps to deploy the site are as follo
 
 ![GitHub pages deployed image](add image here)
 
-  The live link to the Github repository can be found here - (enter link here)
+  The live link to the Github repository can be found here - (https://mushbt.github.io/stockholm-fc/)
 
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changed without affecting the original repository. The steps to fork the repository are as followed:
-1. Log in to **GitHub** and locate the [repository](https://github.com/EwanColquhoun/wawaswoods).
-2. On the right hand side of the page inline there should be a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+1. Log in to **GitHub** and locate the [repository](https://github.com/mushbt/stockholm-fc).
+2. On the right hand side of the page inline, there should be a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 ![GitHub forking process image](add image here)
 
 ### **To create a local clone of this project**
