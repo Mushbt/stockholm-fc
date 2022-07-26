@@ -260,7 +260,19 @@ No visible errors occured.
 
     * CSS -
     ![W3C CSS Validator test results](assets/images-md/css-error.png)
-     I had used the center value twice for text align which was not needed. This was rectified by removing one center value.     
+     I had used the center value twice for text align which was not needed. This was rectified by removing one center value.
+
+* ### Unresolved
+    * No unresolved issues to mention.
+
+## Additional Testing
+### Lighthouse
+The site was tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome Developer Tools to test the pages for the following:
+* Performance - How the page performs whilst loading.
+* Accessibility - Is the site acccessible for all users and how can it be improved.
+* Best Practices - Site conforms to industry best practices.
+* SEO - Search Engine Optimisation. Is the site optimised for search engine result rankings.
+         
 # Deployment
 
 ### **To deploy the project**
