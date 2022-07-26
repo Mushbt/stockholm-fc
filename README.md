@@ -101,7 +101,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
     * This is the landing page where potential visitors will come to once they have entered the site. I have used a background image of a young child shooting a  football. Reason behind this was that I did not feel I would need to add any further information on what the site was about as the image was self explanatory along side keeping everything simple.
     * A persuasive header along with a learn more button was placed next to the image which gives the visitors a close enough button to move on to the next page which is the about us page.
     
-![Home image](insert image here)
+![Home image](assets/images-md/home-page.png)
 [back to top](<#contents>)
 
 * ### About Us
@@ -114,7 +114,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      
      * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
 
-![About-Us image](insert image here)
+![About-Us image](assets/images-md/about-us.png)
 [Back to top](<#contents>)
 
 * ### Gallery
