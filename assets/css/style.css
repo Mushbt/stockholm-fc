@@ -895,6 +895,11 @@ input {
 @media screen and (max-width: 280px) {
     .learn-button-wrapper {
         font-size: 8px;
+        margin-left: auto;
+    }
+
+    .home-content {
+        margin-left: -40px;
     }
 
     .card {
