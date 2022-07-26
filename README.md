@@ -123,7 +123,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      * Images have been layed out into separate 'cards' to allow more focus per image rather than have them all contained into one section.
      * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
 
-![Gallery image](insert image here)
+![Gallery image](assets/images-md/gallery.png)
 [Back to top](<#contents>)
 
 * ### Session Times
@@ -132,7 +132,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      * A map of the location has also been added to make it simple for the user rather than having to search up the address on the internet.
      * A book now button was added which takes the user to the bookings page incase they are persuaded enough to choose this football club for their children.
 
-![Session-Times image](insert image here)
+![Session-Times image](assets/images-md/sessions.png)
 [Back to top](<#contents>)
 
 * ### Bookings
@@ -140,7 +140,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      * The Bookings page contains an easy to fill form with a queries section if they require any further information.
      * A contact card is also present with the phone number and email if the user prefers to contact us another way instead.
      
-![Bookings image](insert image here)
+![Bookings image](assets/images-md/bookings.png)
 [Back to top](<#contents>)
 
 * ### Thank You
@@ -149,7 +149,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
      * The Thank You page has a simple thank you message and information on how long they will need to wait for a response from us. This will act as a confirmation page that their form or request has been received by us.
      * The navigation menu is visible incase they would like to go back to any of the main pages on the site.
     
-![Thank-You image](insert image here)
+![Thank-You image](assets/images-md/thank-you.png)
 [Back to top](<#contents>)
 
 * ### Footer
