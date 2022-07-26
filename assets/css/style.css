@@ -125,21 +125,38 @@ h2 {
 }
 
 .about-us-footer {
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
+    padding-top: 120px;
+}
+
+.about-us-footer>h3 {
+    text-align: center;
 }
 
 .gallery-footer {
     position: relative;
     width: 100%;
     bottom: 0;
+    padding-top: 120px;
+}
+
+.gallery-footer>h3 {
+    text-align: center;
 }
 
 .bookings-footer {
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
+    padding-top: 5px;
+}
+
+.bookings-footer>h3 {
+    text-align: center;
+    margin: 0;
+
 }
 
 .thank-you-footer {
@@ -149,9 +166,14 @@ h2 {
 }
 
 footer {
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
+    padding-top: 190px;
+}
+
+footer>h3 {
+    text-align: center;
 }
 
 .social-media {
