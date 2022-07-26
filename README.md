@@ -314,7 +314,7 @@ The site was deployed to GitHub pages. The steps to deploy the site are as follo
   3. Under **Source**, select the branch to **main**, then click **save**.
   4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-![GitHub pages deployed image](add image here)
+![GitHub pages deployed image](assets/images-md/github-deployment.png)
 
   The live link to the Github repository can be found here - (https://mushbt.github.io/stockholm-fc/)
 
@@ -322,13 +322,13 @@ The site was deployed to GitHub pages. The steps to deploy the site are as follo
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changed without affecting the original repository. The steps to fork the repository are as followed:
 1. Log in to **GitHub** and locate the [repository](https://github.com/mushbt/stockholm-fc).
 2. On the right hand side of the page inline, there should be a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
-![GitHub forking process image](add image here)
+![GitHub forking process image](assets/images-md/github-fork.png)
 
 ### **To create a local clone of this project**
 The steps to create a local clone of this project are as followed:
 1. Under the repository’s name, click on the **code** tab.
 2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
-![Cloning image](add image here)
+![Cloning image](assets/images-md/github-clone.png)
 3. In your IDE of choice, open **Git Bash**.
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type **git clone**, and then paste the URL copied from GitHub.
