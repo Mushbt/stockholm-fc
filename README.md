@@ -15,35 +15,35 @@ The Stockholm FC website has been designed to provide an easy-to-navigate site f
     *  [Typography](<#typography>)
     *  [Colour Scheme](<#colour-scheme>)
 * [**Features**](<#features>)
-    * [**Home**](<#home-page>)
-         * [Navigation menu](<#navigation-menu>)
-         * [About-us](<#about-us>)
-         * [Gallery](<#gallery>)
-         * [Session-times](<#session-times>)
-         * [bookings](<#bookings>)
-         * [thank-you](<#thank-you>)
-         * [Footer](<#footer>)
-    * [**Future Features**](<#future-features>)
+    * [Home](<#home-page>)
+    * [Navigation menu](<#navigation-menu>)
+    * [About-us](<#about-us>)
+    * [Gallery](<#gallery>)
+    * [Session-times](<#session-times>)
+    * [bookings](<#bookings>)
+    * [thank-you](<#thank-you>)
+    * [Footer](<#footer>)
+* [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
-    * [**Content**](<#content>)
-    * [**Media**](<#media>)
+* [**Content**](<#content>)
+* [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
 # User Experience (UX)
 
 ## User Stories
 
-* As a user I want to be able to know what the website is about as soon as I enter the site.
-* As a user I want to be able to navigate easily and smoothly through the site.
-* As a user I want information on who and what is Stockholm FC and why I should enroll my children to their football club.
-* As a user I want to see images of their football sessions.
-* As a user I want to know what day and time they have their sessions.
-* As a user I want to know the location of the sessions they hold.
-* As a user I want to be able to request more information via mail or phone.
-* As a user I want to be able to fill out a simple form to start my enrolment. 
+* As a user, I want to be able to know what the website is about as soon as I enter the site.
+* As a user, I want to be able to navigate easily and smoothly through the site.
+* As a user, I want information on who and what is Stockholm FC and why I should enroll my children to their football club.
+* As a user, I want to see images of their football sessions.
+* As a user, I want to know what day and time they have their sessions.
+* As a user, I want to know the location of the sessions they hold.
+* As a user, I want to be able to request more information via mail or phone.
+* As a user, I want to be able to fill out a simple form to start my childs enrolment. 
 
 
 [Back to top](<#contents>)
@@ -60,7 +60,7 @@ The wireframes for Stockholm FC were produced in [Balsamiq](https://balsamiq.com
 
 ## Site Structure
 
-Stockholm FC website has 5 visible pages. The [home page](index.html) is the Landing page, [about us](about-us.html), [gallery](gallery.html), [session times](session-times.html) and [bookings](bookings.html). All 5 visible pages are accessible from the navigation menu which is located on the top of all pages. There is a learn more button on the home page which takes you to the about us page. There is also a book now button on all the other visible pages. There is an extra [thank you](thank-you.html) page once you have filled out the form on the bookings page.
+The Stockholm FC website has 5 visible pages. The [home page](index.html) which is the Landing page, [about us](about-us.html), [gallery](gallery.html), [session times](session-times.html) and [bookings](bookings.html). All 5 visible pages are accessible from the navigation menu which is located on the top of all pages. There is a learn more button on the home page which takes you to the about us page. There is also a book now button on all the other visible pages. There is an extra [thank you](thank-you.html) page once you have filled out the form on the bookings page.
 
 
 [Back to top](<#contents>)
@@ -81,7 +81,7 @@ Stockholm FC website has 5 visible pages. The [home page](index.html) is the Lan
 
 [Back to top](<#contents>)
 
-#Features
+# Features
 
 The Stockholm FC site was made to be simple and easy to use. The thought behind this was that parents should not be overwhelmed with information and complicated navigation. For parents that do need further information, they have an easy form on the bookings page.
 
@@ -259,8 +259,11 @@ No visible errors occured.
     * During validation one error was highlighted, a brief description is below:
 
     * CSS -
+    
     ![W3C CSS Validator test results](assets/images-md/css-error.png)
-     I had used the center value twice for text align which was not needed. This was rectified by removing one center value.
+    
+    
+    I had used the center value twice for text align which was not needed. This was rectified by removing one center value.
 
 * ### Unresolved
     * No unresolved issues to mention.
