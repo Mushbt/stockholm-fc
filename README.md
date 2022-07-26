@@ -91,7 +91,7 @@ The Stockholm FC site was made to be simple and easy to use. The thought behind 
     * Located at the top of all the pages in the site, it is responsive and contains links to all the pages of the site to allow ease of navigation in one location.
     * The logo is clickable with a link back to the home page for enhanced UX.
 
-![Navigation bar image](insert nav image here)
+![Navigation bar image](assets/images-md/nav-menu.png)
 
 
 [Back to top](<#contents>)
