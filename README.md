@@ -218,7 +218,7 @@ The CSS validator results are below:
 ## Browser Compatibility
 
 The Stockholm FC site was tested on the following browsers:
-Google Chrome, Microsoft Edge, Safari, Mozilla Firefox, Samsung Internetoccurredawoccurredser.
+Google Chrome, Microsoft Edge, Safari, Mozilla Firefox, Samsung Internet, and Huawei Browser.
 No visible errors occured.
 
 ## Testing User Stories
