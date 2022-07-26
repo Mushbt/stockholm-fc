@@ -252,7 +252,15 @@ No visible errors occured.
     <br>
 * As a user I want to be able to fill out a simple form to start my enrolment.
     * On the bookings page the user will find a quick and easy form with an enquiry box in case they want to know more information.
- 
+
+## Known Bugs
+* ### Resolved
+
+    * During validation one error was highlighted, a brief description is below:
+
+    * CSS -
+    ![W3C CSS Validator test results](assets/images-md/css-error.png)
+     I had used the center value twice for text align which was not needed. This was rectified by removing one center value.     
 # Deployment
 
 ### **To deploy the project**
