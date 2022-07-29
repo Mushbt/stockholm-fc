@@ -679,6 +679,7 @@ input {
         position: absolute;
         width: 100%;
         bottom: 0;
+        z-index: -1;
     }
 
     .home-page-footer>.social-media i {
