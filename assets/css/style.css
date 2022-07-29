@@ -87,6 +87,14 @@ header {
     padding-left: 2rem;
 }
 
+.thank-you-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding-left: 2rem;
+}
+
 h1,
 h2 {
     font-family: 'Rokkitt', serif;
