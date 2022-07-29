@@ -356,7 +356,7 @@ The steps to create a local clone of this project are as followed:
 * The inspiration for the card styles came from [W3schools](https://w3schools.com/)
 * [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 * The README template came from [Ewan Colquhoun](https://www.linkedin.com/in/ewan-colquhoun-2b3535213/)
-* Gitpod Template for the project was taken from [Code Institute](https://codeinstitute.net/)
+* Gitpod Template for the project was generated from [Code Institute](https://codeinstitute.net/)
 
 
 ### Media
