@@ -909,7 +909,7 @@ input {
 /* For smaller screens from 345px wide and down */
 @media screen and (max-width: 345px) {
     .learn-button-wrapper {
-        font-size: 8px;
+        font-size: 7px;
     }
 
     #booking-form {
