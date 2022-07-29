@@ -168,7 +168,7 @@ h2 {
 }
 
 .thank-you-footer {
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
 }
@@ -627,6 +627,11 @@ input {
         flex-direction: column;
     }
 
+    .thank-you-header {
+        font-size: 12px;
+        flex-direction: column;
+    }
+
     header {
         font-size: 12px;
         flex-direction: column;
@@ -814,6 +819,11 @@ input {
         opacity: 0.7;
     }
 
+    .thank-you-header {
+        height: 300px;
+        font-size: 14px;
+    }
+
     header {
         height: 300px;
         font-size: 14px;
@@ -885,6 +895,10 @@ input {
 
     .session-column {
         font-size: 15px;
+    }
+
+    .thank-you-header {
+        z-index: 3;
     }
 
     .thank-you-content {
