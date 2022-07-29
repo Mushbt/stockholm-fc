@@ -258,7 +258,7 @@ No visible errors occured.
 ## Known Bugs
 * ### Resolved
 
-    * During validation one error was highlighted, a brief description is below:
+    * During validation two errors were highlighted, a brief description is below:
 
     * CSS -
     
@@ -267,6 +267,9 @@ No visible errors occured.
     
     I had used the center value twice for text align which was not needed. This was rectified by removing one center value.
 
+   * Google Maps - 
+
+   ![Google map error]()
 * ### Unresolved
     * No unresolved issues to mention.
 
