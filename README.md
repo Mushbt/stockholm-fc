@@ -269,7 +269,11 @@ No visible errors occured.
 
    * Google Maps - 
 
-   ![Google map error]()
+   ![Google map error](assets/images-md/gmaperror.png)
+
+
+   I had copied the link to the location but the map would not load on the live site. After some research online, I found a solution to the error on [Stack Overflow](https://stackoverflow.com/)
+   I needed to go onto Google Maps, enter the destination and then go onto the share button. I needed to copy the link from there for it to work on my live site.
 * ### Unresolved
     * No unresolved issues to mention.
 
