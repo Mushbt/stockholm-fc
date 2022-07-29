@@ -906,8 +906,8 @@ input {
     }
 }
 
-/* For smaller screens from 345px wide and down */
-@media screen and (max-width: 345px) {
+/* For smaller screens from 360px wide and down */
+@media screen and (max-width: 360px) {
     .learn-button-wrapper {
         font-size: 7px;
     }
