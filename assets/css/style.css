@@ -168,7 +168,7 @@ h2 {
 }
 
 .thank-you-footer {
-    position: relative;
+    position: absolute;
     width: 100%;
     bottom: 0;
 }
